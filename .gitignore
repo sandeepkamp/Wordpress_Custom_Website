@@ -1,0 +1,7 @@
+/pma
+wp-config.php
+.htaccess
+/wp-content/uploads
+/wp-content/plugins
+config.bat
+node_modules

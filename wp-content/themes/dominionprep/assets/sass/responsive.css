@@ -1,0 +1,76 @@
+@media only screen and (max-width: 991px){
+  #mega-menu-wrap-max_mega_menu_1 #mega-menu-max_mega_menu_1 > li.mega-menu-item.mega-current-menu-item > a.mega-menu-link, #mega-menu-wrap-max_mega_menu_1 #mega-menu-max_mega_menu_1 > li.mega-menu-item.mega-current-menu-ancestor > a.mega-menu-link, #mega-menu-wrap-max_mega_menu_1 #mega-menu-max_mega_menu_1 > li.mega-menu-item.mega-current-page-ancestor > a.mega-menu-link {color: #eab601 !important;}
+}
+@media only screen and (max-width: 768px){
+  #mega-menu-wrap-max_mega_menu_1 .mega-menu-toggle .mega-toggle-blocks-right .mega-toggle-block { margin-right:10px !important;}
+   #navbarTogglerDemo02 .mega-menu-item a {padding: 8px 15px !important;}
+  #navbarTogglerDemo02 .mega-menu-item a {padding: 8px 15px !important;}
+  nav.header-nav.navbar{background-color: black;}
+  .header-right, .navbar-collapse { height: auto;}
+  #mega-menu-wrap-max_mega_menu_1 #mega-menu-max_mega_menu_1 > li.mega-menu-flyout ul.mega-sub-menu{width: 100% !important;}
+  .newslatter form button{ margin-bottom: 18px;}
+  .resBtn {display: flex; justify-content: center;}
+  
+
+}
+
+@media only screen and (max-width: 425px){
+
+#mega-toggle-block-0 {margin-top: -30px !important;}
+#mega-menu-wrap-max_mega_menu_1 .mega-menu-toggle .mega-toggle-blocks-right .mega-toggle-block { margin-right:10px !important;}
+ #navbarTogglerDemo02 .mega-menu-item a {padding: 8px 15px !important;}
+ .logo-1 .d-flex > p {font-size: 8px !important;}
+ .header-right, .navbar-collapse { height: auto;}
+ #mega-menu-wrap-max_mega_menu_1 #mega-menu-max_mega_menu_1 > li.mega-menu-flyout ul.mega-sub-menu{width: 100% !important;}
+ .newslatter form button{ margin-bottom: 18px;}
+ button, input[type="button"]{padding: 5px 7px;}
+ .upload-btn-wrapper .btn{background-size: 280px;background-position: unset;}
+ .methods-list {flex-direction: column;}
+ a.know-more-link {margin-bottom: 20px;}
+ 
+}
+@media only screen and (max-width:375px){
+
+  
+  #mega-toggle-block-0 {margin-top: -30px !important;}
+  #mega-menu-wrap-max_mega_menu_1 .mega-menu-toggle .mega-toggle-blocks-right .mega-toggle-block { margin-right:10px !important;}
+   #navbarTogglerDemo02 .mega-menu-item a {padding: 8px 15px !important;}
+   .logo-1 .d-flex > p {font-size: 8px !important;}
+   .header-right, .navbar-collapse { height: auto;}
+   #mega-menu-wrap-max_mega_menu_1 #mega-menu-max_mega_menu_1 > li.mega-menu-flyout ul.mega-sub-menu{width: 100% !important;}
+   .newslatter form button{ margin-bottom: 18px;}
+   button, input[type="button"]{padding: 5px 7px;}
+   .upload-btn-wrapper .btn{background-size: 280px;background-position: unset;}
+  
+  
+  }
+@media only screen and (max-width: 360px){
+
+  
+#mega-toggle-block-0 {margin-top: -30px !important;}
+#mega-menu-wrap-max_mega_menu_1 .mega-menu-toggle .mega-toggle-blocks-right .mega-toggle-block { margin-right:10px !important;}
+ #navbarTogglerDemo02 .mega-menu-item a {padding: 8px 15px !important;}
+ .logo-1 .d-flex > p {font-size: 8px !important;}
+ .header-right, .navbar-collapse { height: auto;}
+ #mega-menu-wrap-max_mega_menu_1 #mega-menu-max_mega_menu_1 > li.mega-menu-flyout ul.mega-sub-menu{width: 100% !important;}
+ .newslatter form button{ margin-bottom: 18px;}
+ button, input[type="button"]{padding: 5px 7px;}
+ .upload-btn-wrapper .btn{background-size: 280px;background-position: unset;}
+
+
+}
+@media only screen and (max-width: 320px){
+
+  
+  #mega-toggle-block-0 {margin-top: -30px !important;}
+  #mega-menu-wrap-max_mega_menu_1 .mega-menu-toggle .mega-toggle-blocks-right .mega-toggle-block { margin-right:10px !important;}
+   #navbarTogglerDemo02 .mega-menu-item a {padding: 8px 15px !important;}
+   .logo-1 .d-flex > p {font-size: 8px !important;}
+   .header-right, .navbar-collapse { height: auto;}
+   #mega-menu-wrap-max_mega_menu_1 #mega-menu-max_mega_menu_1 > li.mega-menu-flyout ul.mega-sub-menu{width: 100% !important;}
+   .newslatter form button{ margin-bottom: 18px;}
+   button, input[type="button"]{padding: 5px 7px;}
+   .upload-btn-wrapper .btn{background-size: 280px;background-position: unset;}
+
+
+}
